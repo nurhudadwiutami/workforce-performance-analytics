@@ -5,6 +5,8 @@ This project evaluates workforce performance, capacity bottlenecks, and training
 
 The objective is to provide data-backed Strategic OD recommendations to optimize capacity allocation, mitigate burnout, and eliminate training waste.
 
+![HR Workforce Dashboard](dashboard.png)
+
 ---
 
 ## Key Insights & Risks
